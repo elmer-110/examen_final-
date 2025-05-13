@@ -30,3 +30,4 @@ python src/main.py
 ### 4 ejecutar pruebas
  python -m unittest discover -s tests
 
+![image](https://github.com/user-attachments/assets/0bd27e18-2345-4678-866f-d517eda824b9)
