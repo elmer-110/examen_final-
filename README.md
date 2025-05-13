@@ -1,7 +1,7 @@
 # examen_final-
 Este proyecto modela conceptos fundamentales de la física cuántica (como estados cuánticos, operadores unitarios y mediciones) utilizando programación orientada a objetos en Python.
 https://github.com/elmer-110/examen_final-.git
-Estructura :
+  Estructura :
 ├── src/
 │ ├── main.py
 │ └── cuantica/
