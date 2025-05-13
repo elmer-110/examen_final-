@@ -17,11 +17,10 @@ Estructura :
 └── README.md
 
 ### 1. Crear y activar entorno virtual (recomendado)
-```bash
 python3 -m venv venv
 venv\Scripts\activate         # Windows
 
-### 2. Instalar dependencias 
+### 2. Instalar dependencias
 pip install -r requirements.txt
 
 
